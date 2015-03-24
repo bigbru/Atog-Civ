@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/10/2015 10:36:09 PM -->
+<GameData>
+
+	<Traits>
+		<Row>
+			<Type>TRAIT_NAAM</Type>
+			<Description>TXT_KEY_TRAIT_NAAM</Description>
+			<ShortDescription>TXT_KEY_TRAIT_NAAM_SHORT</ShortDescription>
+			<ImprovementMaintenanceModifier>-25</ImprovementMaintenanceModifier>
+		</Row>
+	</Traits>
+	
+	<Language_en_US>
+
+
+		<Row Tag="TXT_KEY_TRAIT_NAAM">
+
+			<Text>Les plus grands guerriers de l'empire, même pas épilés</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_NAAM_SHORT">
+
+			<Text>"Tes frères tu réchauffera"</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

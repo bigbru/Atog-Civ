@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/18/2015 7:31:16 PM -->
+<GameData>
+
+	-<Civilizations_YagemStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_RMOSSI</Type>
+
+			<X>12</X>
+
+			<Y>37</Y>
+
+		</Row>
+
+	</Civilizations_YagemStartPosition>
+	-
+
+	-<Civilizations_YahemStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_RMOSSI</Type>
+
+			<X>59</X>
+
+			<Y>39</Y>
+
+		</Row>
+
+	</Civilizations_YahemStartPosition>
+	-
+
+	-<Civilizations_CordiformStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_RMOSSI</Type>
+
+			<X>32</X>
+
+			<Y>14</Y>
+
+		</Row>
+
+	</Civilizations_CordiformStartPosition>
+
+
+</GameData>

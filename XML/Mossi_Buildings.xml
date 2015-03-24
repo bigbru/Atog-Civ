@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/9/2015 4:24:14 PM -->
+<GameData>
+
+	<Buildings>
+
+		<Row>
+			<Type>BUILDING_FRIDAY_COURT</Type>
+			<BuildingClass>BUILDINGCLASS_CIRCUS</BuildingClass>
+			<Cost>100</Cost>
+			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
+			<Description>TXT_KEY_BUILDING_FRIDAY_COURT</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_FRIDAY_COURT_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_FRIDAY_COURT_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_FRIDAY_COURT_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_FRIDAY_COURT</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>RMOSSI_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+
+
+		-<Row>
+
+			<Type>BUILDING_FRIDAY_COURT_DUMMY</Type>
+
+			<BuildingClass>BUILDINGCLASS_FRIDAY_COURT_DUMMY</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<Happiness>1</Happiness>
+
+		</Row>
+		
+	</Buildings>
+
+	<BuildingClasses>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_FRIDAY_COURT_DUMMY</Type>
+
+			<DefaultBuilding>BUILDING_FRIDAY_COURT_DUMMY</DefaultBuilding>
+
+		</Row>
+		
+	</BuildingClasses>
+
+	<Building_UnitCombatProductionModifiers>
+
+		<Row>
+			<BuildingType>BUILDING_FRIDAY_COURT</BuildingType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Modifier>10</Modifier>
+		</Row>
+		
+	</Building_UnitCombatProductionModifiers>
+
+	<Building_Flavors>
+
+		<Row>
+			<BuildingType>BUILDING_FRIDAY_COURT</BuildingType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FRIDAY_COURT</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FRIDAY_COURT</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		
+	</Building_Flavors>
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_FRIDAY_COURT">
+
+			<Text>Naaba Court</Text>
+
+			<Gender>neuter:the</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_BUILDINGS_FRIDAY_COURT_TEXT">
+
+			<Text>Naaba courts (Naaba meaning 'lord') were the palaces of powerful kings and their noblemen, similar to the courts of european nobles. In modern times, the Mogho Naaba, or Emperor of the Mossi attends a ceremony every friday at 8 AM in the Burkinabe capital Ougadougou whereby he pretends as if he is going to war, and then is persuaded not to by nobles, chiefs and servants, honouring an event that happened 400 years ago when the Emperor was dissuaded from starting a potentially bloody war to the rejoicement of his people. A feast then ensues where gifts are presented to their Emperor.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_FRIDAY_COURT_STRATEGY">
+
+			<Text>Naaba Courts are powerful tools of expansion. The hefty happiness boost they provide prevents your large empire from revolting, and the extra production towards mounted units fuels the Mossi expansion engine.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_FRIDAY_COURT_HELP">
+
+			<Text>Replaces the circus; unlocked at horseback riding but does not require [ICON_RES_HORSE] horses or [ICON_RES_IVORY] ivory. +1 [ICON_HAPPINESS_1] per luxury and source of [ICON_RES_HORSE] horses worked(Max 4 [ICON_HAPPINESS_1]). 10% [ICON_PRODUCTION] towards mounted units.</Text>
+
+		</Row>
+
+	</Language_en_US>
+	
+</GameData>

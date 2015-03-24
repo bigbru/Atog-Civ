@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2aaf6d6f-8ca6-48fb-b6ba-87e23ff43a3d" version="2">
+  <Properties>
+    <Name>Le mod Atog</Name>
+    <Teaser>A mod adding the Mossi Empire to the game</Teaser>
+    <Description>A mod adding the Mossi Empire to the game</Description>
+    <Authors>ryanjames</Authors>
+    <SpecialThanks>davey_henninger, viregel, Firebug</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5  (Historical Religions Complete)" minversion="0" maxversion="999" title="Historical religions complete" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef  (Historical Religions)" minversion="0" maxversion="999" title="Historical religions" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV leader traits " />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD cultural diversity" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb32141" minversion="0" maxversion="999" title="RED modpack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="5F898BA6ED99791D5BC2F5232E083FCC" import="1">Assets/Hommage_a_Mama_Konate.mp3</File>
+    <File md5="C8B61FAD76F60598CBA1694B23872FA8" import="1">Assets/Icons/Alpha/MossiAlpha128.dds</File>
+    <File md5="FB8B1DC5AA02F06F040795AED165B503" import="1">Assets/Icons/Alpha/MossiAlpha16.dds</File>
+    <File md5="90106B72DBE848B75768F6F9A781A86B" import="1">Assets/Icons/Alpha/MossiAlpha24.dds</File>
+    <File md5="D636519330CFD3FBD95620319686DDF0" import="1">Assets/Icons/Alpha/MossiAlpha256.dds</File>
+    <File md5="6C3571FDE00298FE8514AB8CC49F34FB" import="1">Assets/Icons/Alpha/MossiAlpha32.dds</File>
+    <File md5="FFE7160B6F1D704277765CD0FB0BE1F1" import="1">Assets/Icons/Alpha/MossiAlpha45.dds</File>
+    <File md5="22CB1493090193326A05F847B1F1D73C" import="1">Assets/Icons/Alpha/MossiAlpha48.dds</File>
+    <File md5="4FBDC3BB36309EFC1EAC773A1A22D301" import="1">Assets/Icons/Alpha/MossiAlpha64.dds</File>
+    <File md5="C2E99957B1932E35BED95DAFFFCEB239" import="1">Assets/Icons/Alpha/MossiAlpha80.dds</File>
+    <File md5="C260D332C1F9C685C015C73C9C2FB5B9" import="1">Assets/Icons/Icon Atlas/MossiIconAtlas128.dds</File>
+    <File md5="856607FBB80CB296F1EBEE8D36815468" import="1">Assets/Icons/Icon Atlas/MossiIconAtlas256.dds</File>
+    <File md5="1721CA7F0B23C33AFF3AB5929903C6CF" import="1">Assets/Icons/Icon Atlas/MossiIconAtlas32.dds</File>
+    <File md5="8B0712158C5C9E79BEEBCE957EBE9115" import="1">Assets/Icons/Icon Atlas/MossiIconAtlas45.dds</File>
+    <File md5="0142EBAF7F3E48F9A3597B2109114B1D" import="1">Assets/Icons/Icon Atlas/MossiIconAtlas64.dds</File>
+    <File md5="0767E58205A7627A249649E422960355" import="1">Assets/Icons/Icon Atlas/MossiIconAtlas80.dds</File>
+    <File md5="72FAF78E3007297B85F23033CB7EC387" import="1">Assets/Icons/Nakombse flag/NakombseFlag128.dds</File>
+    <File md5="507F39D0E43CBF8854B90D4D4299CB79" import="1">Assets/Icons/Nakombse flag/NakombseFlag256.dds</File>
+    <File md5="D405BA4114C0BA7EC0C66B2CEB65E8EB" import="1">Assets/Icons/Nakombse flag/NakombseFlag32.dds</File>
+    <File md5="AB0A4DE9A59ED23FAD5157738B30F60B" import="1">Assets/Icons/Nakombse flag/NakombseFlag45.dds</File>
+    <File md5="17FE71925A72F58BFC459429E6D20E36" import="1">Assets/Icons/Nakombse flag/NakombseFlag64.dds</File>
+    <File md5="A15D73431CB73A84C1EA7F37810257EA" import="1">Assets/Icons/Nakombse flag/NakombseFlag80.dds</File>
+    <File md5="B2D3C92785C771802ADA827A1B9AAE6D" import="1">Assets/MossiDOM.dds</File>
+    <File md5="C431341BC834720E59B3D39DA32EADB3" import="1">Assets/MossiMap.dds</File>
+    <File md5="3B0E810570660E05111B5343CD78BCA3" import="1">Assets/Song_for_Toomba.mp3</File>
+    <File md5="1F83D714982CD7AE566E42187E316ED3" import="1">Assets/DobrowskiScene.dds</File>
+    <File md5="E37319EAC58A75944567ADAB717A3CEA" import="0">Lua/Trait.lua</File>
+    <File md5="2049DFEB55D57D069FF42005D0ABC6B9" import="0">SQL/Mossi_Cultural_diversity_support.sql</File>
+    <File md5="B8C3112D76B4160E76EDBE795D74157B" import="0">SQL/Mossi_IV_Leader_traits.sql</File>
+    <File md5="6D3E445A195D7D4AB13E3B6C779C4AD3" import="0">SQL/Mossi_RED_support.sql</File>
+    <File md5="DDC484D4AE3F84292AC41A1DD29B809B" import="0">SQL/Mossi_religion_support.sql</File>
+    <File md5="F5F6A647CC66201AB70A55893F93B98F" import="0">XML/Mossi_Buildings.xml</File>
+    <File md5="4495C17D055D08E1AD06D33977277E0A" import="0">XML/Civilisation.xml</File>
+    <File md5="6BB82DD0A9F8CFD9AA89537C7CE9ACCA" import="0">XML/Mossi_Icon_Atlas.xml</File>
+    <File md5="918B20478C4244BAD5627708C2EBA3C2" import="0">XML/Mossi_leader.xml</File>
+    <File md5="3F4E6A2329B3D1272B3F2D0D3BE25A57" import="0">XML/Mossi_Music.xml</File>
+    <File md5="DFCBB2DF15DDCF0BD6AF798698931299" import="1">XML/Mossi_scene.xml</File>
+    <File md5="EEB543C0BCC5C0FF47C82444F480D36C" import="0">XML/Mossi_Units.xml</File>
+    <File md5="CDB1C94733938EE7CDDD998BF9A13F62" import="0">XML/Mossi_YNAEMP.xml</File>
+    <File md5="AA11C611C0E221DA348E548A7C99A0E8" import="0">XML/Trait.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilisation.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mossi_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mossi_leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mossi_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mossi_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Mossi_Cultural_diversity_support.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Mossi_Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Mossi_RED_support.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Mossi_IV_Leader_traits.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Mossi_YNAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mossi_scene.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Mossi_religion_support.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Trait.lua">
+      <Name>Mossi trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

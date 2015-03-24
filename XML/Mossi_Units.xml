@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/3/2015 7:06:11 PM -->
+<GameData>
+	
+	<Units>
+		<Row>
+			<Class>UNITCLASS_KNIGHT</Class>
+			<Type>UNIT_NAKOMBSE</Type>
+			<PrereqTech>TECH_CHIVALRY</PrereqTech>
+			<Combat>20</Combat>
+			<Cost>120</Cost>
+			<FaithCost>240</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>6</Moves>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_NAKOMBSE</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_NAKOMBSE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_NAKOMBSE_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_NAKOMBSE</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_MILITARY_SCIENCE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_CAVALRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>25</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_U_SONGHAI_MUSLIMCAVALRY</UnitArtInfo>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>RMOSSI_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+			<Found>true</Found>
+			<WorkRate>65</WorkRate>
+			<UnitFlagAtlas>NAKOMBSE_ALPHA</UnitFlagAtlas>
+		</Row>
+
+		<Row>
+			<Class>UNITCLASS_HORSEMAN</Class>
+			<Type>UNIT_RMOSSI_HORSEMAN</Type>
+			<PrereqTech>NULL</PrereqTech>
+			<Combat>12</Combat>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>4</Moves>
+			<HurryCostModifier>20</HurryCostModifier>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_HORSEMAN</Description>
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_HORSEMAN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_HORSEMAN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_HORSEMAN</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_CHIVALRY</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_KNIGHT</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_HORSEMAN</UnitArtInfo>
+			<UnitFlagIconOffset>17</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>17</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+			<Found>true</Found>
+			<WorkRate>65</WorkRate>
+		</Row>
+
+		<Row>
+			<Class>UNITCLASS_KNIGHT</Class>
+			<Type>UNIT_RMOSSI_KNIGHT</Type>
+			<PrereqTech>NULL</PrereqTech>
+			<Combat>20</Combat>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>4</Moves>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_KNIGHT</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_KNIGHT_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_KNIGHT_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_KNIGHT</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_MILITARY_SCIENCE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_CAVALRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>25</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_KNIGHT</UnitArtInfo>
+			<UnitFlagIconOffset>25</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>26</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+			<Found>true</Found>
+			<WorkRate>65</WorkRate>
+		</Row>
+
+		<Row>
+			<Class>UNITCLASS_LANCER</Class>
+			<Type>UNIT_RMOSSI_LANCER</Type>
+			<PrereqTech>NULL</PrereqTech>
+			<Combat>25</Combat>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>4</Moves>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_LANCER</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_LANCER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_LANCER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_LANCER</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_COMBINED_ARMS</ObsoleteTech>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_ANTI_TANK_GUN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_LANCER</UnitArtInfo>
+			<UnitFlagIconOffset>44</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+			<Found>true</Found>
+			<WorkRate>65</WorkRate>
+		</Row>
+
+		<Row>
+			<Class>UNITCLASS_CAVALRY</Class>
+			<Type>UNIT_RMOSSI_CAVALRY</Type>
+			<PrereqTech>NULL</PrereqTech>
+			<Combat>34</Combat>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>4</Moves>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CAVALRY</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_CAVALRY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CAVALRY_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_CAVALRY</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_COMBUSTION</ObsoleteTech>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_WWI_TANK</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_CAVALRY</UnitArtInfo>
+			<UnitFlagIconOffset>48</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+			<Found>true</Found>
+			<WorkRate>65</WorkRate>
+		</Row>
+
+	</Units>
+
+	<Unit_Builds>
+
+		<Row>
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+			<BuildType>BUILD_ROAD</BuildType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_HORSEMAN</UnitType>
+			<BuildType>BUILD_ROAD</BuildType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_KNIGHT</UnitType>
+			<BuildType>BUILD_ROAD</BuildType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_LANCER</UnitType>
+			<BuildType>BUILD_ROAD</BuildType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_CAVALRY</UnitType>
+			<BuildType>BUILD_ROAD</BuildType>
+		</Row>
+		
+	</Unit_Builds>
+
+	-<Unit_AITypes>
+
+
+		-<Row>
+
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+
+			<UnitAIType>UNITAI_COUNTER</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+
+		</Row>
+
+	</Unit_AITypes>
+
+
+	-<Unit_ClassUpgrades>
+
+
+		-<Row>
+
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+
+			<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RMOSSI_HORSEMAN</UnitType>
+
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RMOSSI_KNIGHT</UnitType>
+
+			<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RMOSSI_CAVALRY</UnitType>
+
+			<UnitClassType>UNITCLASS_WW1_TANK</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RMOSSI_LANCER</UnitType>
+
+			<UnitClassType>UNITCLASS_ANTI_TANK_GUN</UnitClassType>
+
+		</Row>
+
+	</Unit_ClassUpgrades>
+
+
+	-<Unit_FreePromotions>
+
+
+		-<Row>
+
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+
+			<PromotionType>PROMOTION_WITHDRAW_BEFORE_MELEE</PromotionType>
+
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+			<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_HORSEMAN</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_HORSEMAN</UnitType>
+			<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_HORSEMAN</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_KNIGHT</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_KNIGHT</UnitType>
+			<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_KNIGHT</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_LANCER</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_LANCER</UnitType>
+			<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_LANCER</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_CAVALRY</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_CAVALRY</UnitType>
+			<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_RMOSSI_CAVALRY</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+
+
+	</Unit_FreePromotions>
+
+
+	-<Unit_Flavors>
+
+
+		-<Row>
+
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+	</Unit_Flavors>
+
+
+	-<UnitGameplay2DScripts>
+
+
+		-<Row>
+
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+
+			<SelectionSound>AS2D_SELECT_KNIGHT</SelectionSound>
+
+			<FirstSelectionSound>AS2D_BIRTH_KNIGHT</FirstSelectionSound>
+
+		</Row>
+
+	</UnitGameplay2DScripts>
+
+	<Unit_ResourceQuantityRequirements>
+
+		<Row>
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+		
+	</Unit_ResourceQuantityRequirements>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_UNIT_NAKOMBSE">
+
+			<Text>Nakombse</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_NAKOMBSE_TEXT">
+
+			<Text>Mossi society was divided into two classes, the Nakombse and Tengbiise. Nakombse were the political elite and noblemen who claimed to be direct descendents of the original Mossi warriors who founded the Empire, whereas Tengbiise were the inhabitants of places annexed by the Mossi. Tengbiise were a craftsman and spiritual class, and though they could never access political authority, they were nonetheless respected for their services and entitlement to the land that they had inhabited since ancient times. Nakombse noblemen would organise campaigns to annex unclaimed lands to create new kingdoms, they were also incredibly fast and could delve deep into enemy territory.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_NAKOMBSE_STRATEGY">
+
+			<Text>The incredible speed of the Nakombse makes it valuable for recon and formidable when it comes to hit and run attacks, and if it is trapped between a rock and a hard place, they may retreat from melee attacks. The extra movement also makes snatching land from the slow moving settlers of other empires a breeze.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_HELP_NAKOMBSE">
+
+			<Text>Knight replacement; 6 [ICON_MOVES] movement points instead of 4. May withdraw from melee attacks.</Text>
+
+		</Row>
+
+	</Language_en_US>
+
+
+</GameData>

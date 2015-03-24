@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/1/2015 5:08:24 PM -->
+<GameData>
+
+
+	-<Civilizations>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_RMOSSI</Type>
+
+			<Description>TXT_KEY_CIV_RMOSSI_DESC</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_RMOSSI_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIV5_RMOSSI</CivilopediaTag>
+
+			<Strategy/>
+
+			<Playable>1</Playable>
+
+			<AIPlayable>1</AIPlayable>
+
+			<ShortDescription>TXT_KEY_CIV_RMOSSI_SHORT_DESC</ShortDescription>
+
+			<Adjective>TXT_KEY_CIV_RMOSSI_ADJECTIVE</Adjective>
+
+			<DefaultPlayerColor>PLAYERCOLOR_RMOSSI</DefaultPlayerColor>
+
+			<ArtDefineTag>ART_DEF_CIVILIZATION_SONGHAI</ArtDefineTag>
+
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+
+			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+
+			<ArtStylePrefix>AFRICAN</ArtStylePrefix>
+
+			<DerivativeCiv/>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>RMOSSI_ICON_ATLAS</IconAtlas>
+
+			<AlphaIconAtlas>RMOSSI_ALPHA_ATLAS</AlphaIconAtlas>
+
+			<MapImage>MossiMap.dds</MapImage>
+
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_RMOSSI_TEXT</DawnOfManQuote>
+
+			<DawnOfManImage>MossiDOM.dds</DawnOfManImage>
+
+			<SoundtrackTag>Songhai</SoundtrackTag>
+
+		</Row>
+
+	</Civilizations>
+	-
+
+	-<Civilization_BuildingClassOverrides>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_CIRCUS</BuildingClassType>
+
+			<BuildingType>BUILDING_FRIDAY_COURT</BuildingType>
+
+		</Row>
+
+	</Civilization_BuildingClassOverrides>
+	-
+
+	-<Civilization_CityNames>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_0</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_1</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_2</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_3</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_4</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_5</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_6</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_7</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_8</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_9</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_10</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_11</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_12</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_13</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_14</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_15</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_16</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_17</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_18</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_19</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_20</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RMOSSI_21</CityName>
+
+		</Row>
+
+	</Civilization_CityNames>
+	-
+
+	-<Civilization_FreeBuildingClasses>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+
+		</Row>
+
+	</Civilization_FreeBuildingClasses>
+	-
+
+	-<Civilization_FreeTechs>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<TechType>TECH_AGRICULTURE</TechType>
+
+		</Row>
+
+	</Civilization_FreeTechs>
+	-
+
+	-<Civilization_FreeUnits>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+
+			<Count>1</Count>
+
+		</Row>
+
+	</Civilization_FreeUnits>
+	-
+
+	-<Civilization_Leaders>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<LeaderheadType>LEADER_DOBROWSKI</LeaderheadType>
+
+		</Row>
+
+	</Civilization_Leaders>
+	-
+
+	-<Civilization_Religions>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<ReligionType>RELIGION_ISLAM</ReligionType>
+
+		</Row>
+
+	</Civilization_Religions>
+	-
+
+	-<Civilization_SpyNames>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ROLMEC_0</SpyName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RMOSSI_1</SpyName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RMOSSI_2</SpyName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RMOSSI_3</SpyName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RMOSSI_4</SpyName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RMOSSI_5</SpyName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RMOSSI_6</SpyName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RMOSSI_7</SpyName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RMOSSI_8</SpyName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RMOSSI_9</SpyName>
+
+		</Row>
+
+	</Civilization_SpyNames>
+	-
+
+	-<Civilization_UnitClassOverrides>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+
+			<UnitType>UNIT_NAKOMBSE</UnitType>
+
+		</Row>
+
+	</Civilization_UnitClassOverrides>
+	-
+
+	-<Civilization_Start_Region_Priority>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
+
+			<RegionType>REGION_PLAINS</RegionType>
+
+		</Row>
+
+	</Civilization_Start_Region_Priority>
+	-
+
+	-<PlayerColors>
+		-
+
+		-<Row>
+
+			<Type>PLAYERCOLOR_RMOSSI</Type>
+
+			<PrimaryColor>COLOR_PLAYER_RMOSSI_ICON</PrimaryColor>
+
+			<SecondaryColor>COLOR_PLAYER_RMOSSI_BACKGROUND</SecondaryColor>
+
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+
+		</Row>
+
+	</PlayerColors>
+	-
+
+	-<Colors>
+		-
+
+		-<Row>
+
+			<Type>COLOR_PLAYER_RMOSSI_ICON</Type>
+
+			<Red>0.12109</Red>
+
+			<Green>0.36719</Green>
+
+			<Blue>0.08598</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Type>COLOR_PLAYER_RMOSSI_BACKGROUND</Type>
+
+			<Red>0.79297</Red>
+
+			<Green>0.60547</Green>
+
+			<Blue>0.09766</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+	</Colors>
+	-
+
+	-<Language_en_US>
+		-
+
+		-<Row Tag="TXT_KEY_CIV_RMOSSI_DESC">
+
+			<Text>Mossi Empire</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_ROLMEC_FACTOID_HEADING">
+
+			<Text>Mossi factoid</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_FACTOID_TEXT">
+			-
+			<Text>The Mossi Emperor, the Mogho Naaba still weilds considerable respect and authority among his people[NEWLINE][NEWLINE]Geneaology is very important to the Mossi, the ruling class claimed authority through ancient figures such as Dobrowski, and the Mossi's method of expansion was essentially a reenactment of the migration of the warriors who established the Mossi kingdoms![NEWLINE][NEWLINE]In the 20th century, the description of a Mossi court as being as sophisticated as european courts by anthropologists caused controversy among europeans that clung to the belief that Africans could not rule themselves</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_HEADING_1">
+
+			<Text>History</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_HEADING_2">
+
+			<Text>Geography and Climate</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_HEADING_3">
+
+			<Text>Early history</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_HEADING_4">
+
+			<Text>Dobrowski and the first Mossi</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_HEADING_5">
+
+			<Text>Expansion and centralisation</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_HEADING_6">
+
+			<Text>Clashes with bigger neighbors</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_HEADING_7">
+
+			<Text>Unparalleled prosperity</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_HEADING_8">
+
+			<Text>European colonisation</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_HEADING_9">
+
+			<Text>Independance and the present day</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_TEXT_1">
+
+			<Text>The Mossi are an ethnic group in Burkina Faso who once controlled a large West Africa empire that emerged in the 12th century AD, prospering and complexifying until french colonisation in 1896. They were considered masters of cavalry, harrassing both Mali and Songhai.</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_TEXT_2">
+
+			<Text>The Mossi are the most predominant ethnic group in Burkina Faso, formerly known as Upper Volta and are situated in the centres of the country. They inhabit a relatively dry tropical savanna that experiences a wet and dry season.</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_TEXT_3">
+
+			<Text>From the 3rd to 13th centuries, an iron age civilisation known as the Bura culture emerged, smelting metals and trading, however it is unknown what kind of impact it had on later civilisations in the area such as the Mossi.</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_TEXT_4">
+
+			<Text>According to tradition, the Mossi comes from the marriage of a Dagomba princess and Mandé hunter. Dobrowski was a warrior princess, daughter of a king of Dagomba in upper east Ghana. While fleeing her kingdom on horseback she lost her way and was rescued by Rialé, a solitary Mandé hunter. They got married and gave birth to the first authentic Mossi, Ouedraogo, who is recognised as the father of Mossi people. Ouedraogo visited his grandfather in Dagomba at the age of fifteen and was given four horses, 50 cows, and a number of Dagomba horseman joined his forces. With these forces, Wedraogo conquered the Boussansi tribes, married a woman named Pouiriketa who gave him three sons, and built the city of Tenkodogo. The oldest was Diaba Lompo who founded the city of Fada N'gourma. The second son, Rawa, became the ruler of Zondoma Province. His third son, Zoungrana became the ruler in Tenkodogo after Wedraogo died. Zoungrana married Pouitenga, a woman sent from the chief of the Ninisi tribes, and the resulting intermarriage between the Dagomba, the Boussansi, and the Ninisi produced a new tribe called the Mossi. Zoungrana and Pouitenga had a son, Oubri, who further expanded the kingdom by conquering the Kibissi and some Gurunsi tribes. Oubri was likely the founder of Ougadougou and it's dynasty.</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_TEXT_5">
+
+			<Text>Following Oubri, centralization and small-scale expansion of the kingdoms were the primary tasks. The Ouagadougou dynasty retained control in Ouagadougou, but the other kingdoms established by the sons of Wedraogo retained independence in Tenkodogo, Fada N'gourma, and Zondoma. Under the fifth ruler, Komdimie, two revolutions were started by members of the Ouagadougou dynasty with the establishment of the Kingdom of Yatenga to the north and the establishment of the Kingdom of Rizim. War between Komdimie and Yatenga lasted for may years with Yatenga eventually taking over the independent Mossi state of Zondoma. At the same time, Komdimie created a new level of authority for his sons as Dimas of separate provinces with some autonomy but recognizing the sovereignty of the Ouagadougou dynasty. This system of taking over territory and appointing sons as Dimas would last for many of the future rulers.</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_TEXT_6">
+
+			<Text>Increasing power of the Mossi kingdoms resulted in larger conflicts with regional powers. The Kingdom of Yatenga became a key power attacking the Songhai Empire between 1328 and 1477 taking over Timbuktu and sacked the important trading post of Macina. When Askia Mohammad I became the leader of the Songhai Empire with the desire to spread Islam, he waged a holy war against the Mossi kingdoms in 1497. Although the Mossi forces were defeated in this effort, they resisted attempts to impose Islam. With the conquest of the Songhai by the Moroccans of the Saadi dynasty in 1591, the Mossi states reestablished their independence.</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_TEXT_7">
+
+			<Text>By the 1700s, the Mossi kingdoms had increased significantly in terms of economic and military power in the region. Foreign trade relations increased significantly throughout Africa with significant connections to the Fula kingdoms and the Mali Empire. These relations included military attacks on many times with the Mossi being attacked by a variety of African forces. Although there were a number of jihad states in the region trying to forcibly spread Islam, namely the Massina Empire and the Sokoto Caliphate, the Mossi kingdoms largely retained their traditional religious and ritual practices.</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_TEXT_8">
+
+			<Text>
+				When the French arrived and claimed the area in 1896, Mossi resistance ended with the capture of their capital at Ouagadougou. In 1919, certain provinces from Côte d'Ivoire were united into a separate colony called the Upper Volta in the French West Africa federation. In 1932, the new colony was dismembered in a move to economize; it was reconstituted in 1937 as an administrative division called the Upper Coast. After World War II, the Mossi renewed their pressure for separate territorial status and on September 4, 1947, Upper Volta became a French West African territory again in its own right. A revision in the organization of French Overseas Territories began with the passage of the Basic Law (Loi Cadre) of July 23, 1956. This act was followed by reorganizational measures approved by the French parliament early in 1957 that ensured a large degree of self-government for individual territories. Upper Volta became an autonomous republic in the French community on December 11, 1958.
+			</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_TEXT_9">
+
+			<Text>The Republic of Upper Volta declared independence on 5 August 1960, however it was riddled with corruption. Factional infighting developed between moderates and radicals led by the famous left wing politician Captain Thomas Sankara, who was appointed prime minister in January 1983. The internal political struggle and Sankara's leftist rhetoric led to his arrest and subsequent efforts to bring about his release, directed by Captain Blaise Compaoré. This release effort resulted in yet another military coup d'état on August 4, 1983. On August 4, 1984, Upper Volta changed its name to Burkina Faso, meaning "the country of honorable people." As of last year, long time president Blaise Compaore has stood down amid protests, and a new constitution is currently in development.</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RMOSSI_TITLE">
+
+			<Text>Mossi Empire</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV_RMOSSI_SHORT_DESC">
+
+			<Text>Les Udoses</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV_RMOSSI_ADJECTIVE">
+
+			<Text>Mossi</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_DAWN_RMOSSI_TEXT">
+
+			<Text>Greetings Princess Dobrowski, great enemy of the Malinke and Mother to the Mossi people! It is you who the Mossi people regard as their progenitor, and the legend that surrounds you would serve as the basis of the Mossi political model, one that would endure to the present day. A warrior Princess of Dagomba in Northern Ghana, you defied your father by fleeing into the wilderness, bearing a son who would become the first Mossi and the founder of a great Empire![NEWLINE][NEWLINE]The Mossi Empire would dominate the Upper Volta for centuries as a federation of powerful kingdoms. They harassed Mali and Songhai, and preserved their ancient religion in the face of Islamic advances, both peaceful and hostile. As Songhai and Mali faded into the history books, the Mossi would continue to expand and prosper, evading French colonisation until 1896. Even this did not mark the end of the Mossi however, as they, and other ethnic groups declared their independence in 1960 to form the republic of Upper Volta, now known as Burkina Faso, where you, Dobrowski, are immortalised as a national symbol![NEWLINE][NEWLINE]However Dobrowski, now the time has come for you to ride out to your people's aid and reforge the Mossi Empire! Will the loyal Nakombse build an ever expanding federation of kingdoms? Or will you welcome the religion and culture of others with open arms? Can you build a civilization to stand the test of time?</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_0">
+
+			<Text>Ouagadougou</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_1">
+
+			<Text>Tenkodogo</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_2">
+
+			<Text>Yatenga</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_3">
+
+			<Text>Fada N'gourma</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_4">
+
+			<Text>Nanumba</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_5">
+
+			<Text>Dagomba</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_6">
+
+			<Text>Mamprusi</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_7">
+
+			<Text>Oula</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_8">
+
+			<Text>Larle</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_9">
+
+			<Text>Gounghin</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_10">
+
+			<Text>Bilbalogho</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_11">
+
+			<Text>Kamsaoghin</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_12">
+
+			<Text>Ouahigouya</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_13">
+
+			<Text>Kongoussi</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_14">
+
+			<Text>Kaya</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_15">
+
+			<Text>Koudougou</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_16">
+
+			<Text>Manga</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_17">
+
+			<Text>Koupela</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_18">
+
+			<Text>Bousla</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_19">
+
+			<Text>Gambaga</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_20">
+
+			<Text>Zondoma</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_21">
+
+			<Text>Ouidi Wafe</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_22">
+
+			<Text>Loropeni</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_23">
+
+			<Text>Bura</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_24">
+
+			<Text>Boussansi</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RMOSSI_25">
+
+			<Text>Ninisi</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RMOSSI_0">
+
+			<Text>Ouedraogo</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RMOSSI_1">
+
+			<Text>Tiiga</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RMOSSI_2">
+
+			<Text>Salam</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RMOSSI_3">
+
+			<Text>Karim</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RMOSSI_4">
+
+			<Text>Wendmi</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RMOSSI_5">
+
+			<Text>Baaga</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RMOSSI_6">
+
+			<Text>Poko</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RMOSSI_7">
+
+			<Text>Kenga</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RMOSSI_8">
+
+			<Text>Awa</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RMOSSI_9">
+
+			<Text>Relwende</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

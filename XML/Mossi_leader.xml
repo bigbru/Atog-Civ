@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/12/2015 7:41:02 PM -->
+<GameData>
+    <Leaders>
+		<Row>
+			<Type>LEADER_DOBROWSKI</Type>
+
+			<Description>TXT_KEY_LEADER_DOBROWSKI</Description>
+
+			<Civilopedia>TXT_KEY_LEADER_DOBROWSKI_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI</CivilopediaTag>
+
+			<ArtDefineTag>Mossi_scene.xml</ArtDefineTag>
+
+			<VictoryCompetitiveness>7</VictoryCompetitiveness>
+			<WonderCompetitiveness>4</WonderCompetitiveness>
+			<MinorCivCompetitiveness>6</MinorCivCompetitiveness>
+			<Boldness>8</Boldness>
+			<DiploBalance>6</DiploBalance>
+			<WarmongerHate>7</WarmongerHate>
+			<WorkAgainstWillingness>7</WorkAgainstWillingness>
+			<WorkWithWillingness>3</WorkWithWillingness>
+			<DenounceWillingness>7</DenounceWillingness>
+			<DoFWillingness>4</DoFWillingness>
+			<Loyalty>4</Loyalty>
+			<Neediness>7</Neediness>
+			<Forgiveness>4</Forgiveness>
+			<Chattiness>5</Chattiness>
+			<Meanness>5</Meanness>
+			<IconAtlas>RMOSSI_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+
+		</Row>
+	</Leaders>
+
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>8</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+	</Leader_Flavors>
+
+
+
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_DOBROWSKI">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_DOBROWSKI_FIRSTGREETING_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_DOBROWSKI">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_DOBROWSKI_DEFEATED_%</Response>
+		</Row>
+	</Diplomacy_Responses>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_DOBROWSKI">
+			<Text>Dobrowski</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DOBROWSKI_PEDIA">
+			<Text>Dobrowski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI">
+			<Text>Test text.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_TEXT_1">
+			<Text>Dobrowski was a semi-legendary Princess of Dagomba, northern Ghana. Accounts of her are sketchy as her story has been passed down through oral tradition (some interpretatations may differ from the story below), but there is general consensus that she was a feared warrior and horse rider, and is a cultural icon in Burkina Faso.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_HEADING_2">
+			<Text>Early life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_TEXT_2">
+			<Text>
+				Dobrowski was the daughter of King Nedega, who ruled over the Dagomaba Kingdom. Dobrowski’s three brothers all commanded their own battalions, and as she grew Dobrowski also learnt the skills of a warrior. She was an expert horse rider and learnt how to use a javelin, spear and bow. She was a match for any of the men in her father’s armies, and soon she led her own command. She led her army to success in many battles, especially against the neighbouring Malinké people (Malinese). Across the land she became known for her skills in battle, becoming a feared warrior. She is sometimes known as ‘Dobrowski the Svelte’, as she was very tall and slim; and sometimes mistaken for a man when she rode with her battlion in her battle clothes. She was so important to her father’s battle plans that as she reached the age where most of her friends were getting married, he banned her from doing so.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_HEADING_3">
+			<Text>An interesting deviation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_TEXT_3">
+			<Text>
+				Dobrowski continued to be obedient to her father, but she was tired of being in battles all the time, and wanted to fall in love and marry, like so many of her friends had. No matter how much she asked, her father continued to refuse her this request. One story tells us that Dobrowski planted some wheat outside of her father’s house. When the wheat grew, instead of harvesting it she left it to wither and die. When her father angrily asked her why she had done this she told him that he was letting her rot, just like the wheat had done. He wasn’t very happy that she had spoken to him so boldly and some stories say that he imprisoned her! Whether or not she was imprisoned by her father. But Dobrowski had friends among the King's guards. One night, one of the king's horsemen helped her escape from the prison. Quite different from the traditional story of a Princess being pushed into marriage!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_HEADING_4">
+			<Text>The horse, the son and an elephant hunter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_TEXT_4">
+			<Text>Both rode long into the night and were later attacked by Malinkes warriors. Dobrowski and her benefactor routed their attackers but the horseman paid for the victory with his life. Dobrowski was now alone in the middle of the forest, far, far away from Gambaga. Bravely she decided to ride further north. At one point in the journey she had to cross a river. Braving strong currents she and her horse managed to negotiate the river. She was exhausted from the effort and lay on the back of her horse when she saw a house. It belonged to Riale, a famous elephant hunter. Riale fell in love with Dobrowski straight away. In time they had a son who came to be called Ouedraogo (male horse), a name used quite commonly by the Burkinabe now.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_HEADING_5">
+			<Text>Ouedraogo, the first Mossi emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_TEXT_5">
+			<Text>
+				Ouedraogo visited his grandfather in Dagomba at the age of fifteen and was given four horses, 50 cows, and a number of Dagomba horseman joined his forces. With these forces, Wedraogo conquered the Boussansi tribes, married a woman named Pouiriketa who gave him three sons.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_HEADING_6">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_TEXT_6">
+			<Text>
+				Today in Burkina Faso, and across the region Dobrowski’s legacy remains. There are statues of her, roads named after her and even an African film award which is known as the Dobrowski Gold Stallion and has a golden woman riding a horse with a spear on top. The national football team of Burkina Faso is even called  ‘Les Étalons’ which means ‘The Stallions’, after Dobrowski’s famous horse. Her story has inspired many, who see her as a symbol of a woman with a strong character and an independent mind.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_SUBTITLE">
+			<Text>Princess of Dagomba, Dobrowski the Svelte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_NAME">
+			<Text>Dobrowski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI_LIVED">
+			<Text>12th century AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DOBROWSKI_FIRSTGREETING_1">
+			<Text>Greetings, I am Dobrowski of the Mossi. Have you met my son Ouedraogo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DOBROWSKI_FIRSTGREETING_2">
+			<Text>What brings you to the Mossi Kingdoms? If you have any plans for spreading your faith to us, I'd like to disappoint you now by explaining that our traditions are much too important. Otherwise, we will get along fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DOBROWSKI_FIRSTGREETING_3">
+			<Text>The Mossi kingdoms rarely recieve travellers, I am Dobrowski, enemy of the Malinke and Mother of the Mossi people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DOBROWSKI_DEFEATED_1">
+			<Text>How can a Mother care for her children if they lie dead on the ground? What monster would enact such cruelty?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DOBROWSKI_DEFEATED_2">
+			<Text>The Mossi may be oppressed and colonised, but my children will rise up once more!</Text>
+		</Row>
+	</Language_en_US>
+
+	-<Leader_Traits>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_DOBROWSKI</LeaderType>
+
+			<TraitType>TRAIT_NAAM</TraitType>
+
+		</Row>
+
+	</Leader_Traits>
+  
+</GameData>
