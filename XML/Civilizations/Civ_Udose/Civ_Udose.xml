@@ -146,7 +146,7 @@
 	<Civilization_Leaders>
 		<Row>
 			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
-			<LeaderheadType>LEADER_DOBROWSKI</LeaderheadType>
+			<LeaderheadType>Dobrowski</LeaderheadType>
 		</Row>
 	</Civilization_Leaders>
 </GameData>
