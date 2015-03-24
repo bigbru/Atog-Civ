@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/23/2015 10:22:32 PM -->
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_DOBROWSKI</Type>
+			<Description>TXT_KEY_LEADER_DOBROWSKI</Description>
+			<Civilopedia>TXT_KEY_LEADER_DOBROWSKI_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_DOBROWSKI</CivilopediaTag>
+			<VictoryCompetitiveness>5</VictoryCompetitiveness>
+			<WonderCompetitiveness>5</WonderCompetitiveness>
+			<MinorCivCompetitiveness>5</MinorCivCompetitiveness>
+			<Boldness>5</Boldness>
+			<DiploBalance>5</DiploBalance>
+			<WarmongerHate>5</WarmongerHate>
+			<WorkAgainstWillingness>5</WorkAgainstWillingness>
+			<WorkWithWillingness>5</WorkWithWillingness>
+			<DenounceWillingness>5</DenounceWillingness>
+			<DoFWillingness>5</DoFWillingness>
+			<Loyalty>5</Loyalty>
+			<Neediness>5</Neediness>
+			<Forgiveness>5</Forgiveness>
+			<Chattiness>5</Chattiness>
+			<Meanness>5</Meanness>
+			<ArtDefineTag>DOBROWSKI_Scene.xml</ArtDefineTag>
+			<IconAtlas>HARALD_LEADER_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Leaders>
+</GameData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2015 1:07:22 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>HARALD_LEADER_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>LeaderPortraits256_DLC_04.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>HARALD_LEADER_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>LeaderPortraits128_DLC_04.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>HARALD_LEADER_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>LeaderPortraits64_DLC_04.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>
