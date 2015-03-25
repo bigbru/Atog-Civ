@@ -30,12 +30,12 @@
 
 			<ArtDefineTag>ART_DEF_CIVILIZATION_SONGHAI</ArtDefineTag>
 
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
 
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-
-			<ArtStylePrefix>AFRICAN</ArtStylePrefix>
-
+			<ArtStylePrefix>_EURO</ArtStylePrefix>
+			
+			<ArtStyleSuffix>EUROPEAN</ArtStyleSuffix>
+			
 			<DerivativeCiv/>
 
 			<PortraitIndex>0</PortraitIndex>
@@ -55,26 +55,9 @@
 		</Row>
 
 	</Civilizations>
-	-
-
-	-<Civilization_BuildingClassOverrides>
-		-
-
-		-<Row>
-
-			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
-
-			<BuildingClassType>BUILDINGCLASS_CIRCUS</BuildingClassType>
-
-			<BuildingType>BUILDING_FRIDAY_COURT</BuildingType>
-
-		</Row>
-
-	</Civilization_BuildingClassOverrides>
-	-
 
 	-<Civilization_CityNames>
-		-
+		
 
 		-<Row>
 
@@ -303,7 +286,72 @@
 
 	</Civilization_FreeTechs>
 	-
-
+<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_WRITING</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_THE_WHEEL</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_CALENDAR</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_MINING</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_MASONRY</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_SAILING</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_TRAPPING</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	-<Civilization_FreeTechs>
+		-<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_POTTERY</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeTechs>
+	    <Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_ARCHERY</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+		</Row>
+	</Civilization_FreeTechs>
 	-<Civilization_FreeUnits>
 		-
 
@@ -343,7 +391,7 @@
 
 			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 
-			<ReligionType>RELIGION_ISLAM</ReligionType>
+			<ReligionType>RELIGION_URSUN</ReligionType>
 
 		</Row>
 
@@ -445,19 +493,27 @@
 	</Civilization_SpyNames>
 	-
 
-	-<Civilization_UnitClassOverrides>
-		-
-
-		-<Row>
-
-			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
-
-			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
-
-			<UnitType>UNIT_NAKOMBSE</UnitType>
-
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<UnitClassType>UNITCLASS_ARCHER</UnitClassType>
+			<UnitType>UNIT_AME_BLANCHE</UnitType>
 		</Row>
-
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+			<UnitType>UNIT_OURS_NOIR</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<UnitClassType>UNITCLASS_SCOUT</UnitClassType>
+			<UnitType>UNIT_MARCHEUR</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<UnitClassType>UNITCLASS_SPEARMAN</UnitClassType>
+			<UnitType>UNIT_PRETRE_BROBER</UnitType>
+		</Row>
 	</Civilization_UnitClassOverrides>
 	-
 
@@ -482,58 +538,23 @@
 
 			<Type>PLAYERCOLOR_RMOSSI</Type>
 
-			<PrimaryColor>COLOR_PLAYER_RMOSSI_ICON</PrimaryColor>
+			<PrimaryColor>COLOR_PLAYER_BLACK</PrimaryColor>
 
-			<SecondaryColor>COLOR_PLAYER_RMOSSI_BACKGROUND</SecondaryColor>
+			<SecondaryColor>COLOR_PLAYER_YELLOW</SecondaryColor>
 
 			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
 
 		</Row>
 
 	</PlayerColors>
-	-
-
-	-<Colors>
-		-
-
-		-<Row>
-
-			<Type>COLOR_PLAYER_RMOSSI_ICON</Type>
-
-			<Red>0.12109</Red>
-
-			<Green>0.36719</Green>
-
-			<Blue>0.08598</Blue>
-
-			<Alpha>1.0</Alpha>
-
-		</Row>
-		-
-
-		-<Row>
-
-			<Type>COLOR_PLAYER_RMOSSI_BACKGROUND</Type>
-
-			<Red>0.79297</Red>
-
-			<Green>0.60547</Green>
-
-			<Blue>0.09766</Blue>
-
-			<Alpha>1.0</Alpha>
-
-		</Row>
-
-	</Colors>
-	-
+	
 
 	-<Language_en_US>
 		-
 
 		-<Row Tag="TXT_KEY_CIV_RMOSSI_DESC">
 
-			<Text>Mossi Empire</Text>
+			<Text>Le clan Udose</Text>
 
 			<Gender>neuter:an</Gender>
 
