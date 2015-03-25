@@ -288,67 +288,67 @@
 	-
 <Civilization_FreeTechs>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_WRITING</TechType>
 		</Row>
 	</Civilization_FreeTechs>
 	<Civilization_FreeTechs>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
 		</Row>
 	</Civilization_FreeTechs>
 	<Civilization_FreeTechs>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_THE_WHEEL</TechType>
 		</Row>
 	</Civilization_FreeTechs>
 	<Civilization_FreeTechs>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_CALENDAR</TechType>
 		</Row>
 	</Civilization_FreeTechs>
 	<Civilization_FreeTechs>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_MINING</TechType>
 		</Row>
 	</Civilization_FreeTechs>
 	<Civilization_FreeTechs>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_MASONRY</TechType>
 		</Row>
 	</Civilization_FreeTechs>
 	<Civilization_FreeTechs>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_SAILING</TechType>
 		</Row>
 	</Civilization_FreeTechs>
 	<Civilization_FreeTechs>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_TRAPPING</TechType>
 		</Row>
 	</Civilization_FreeTechs>
 	-<Civilization_FreeTechs>
 		-<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_POTTERY</TechType>
 		</Row>
 	</Civilization_FreeTechs>
 	<Civilization_FreeTechs>
 	    <Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_ARCHERY</TechType>
 		</Row>
 	</Civilization_FreeTechs>
 	<Civilization_FreeTechs>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<TechType>TECH_BRONZE_WORKING</TechType>
 		</Row>
 	</Civilization_FreeTechs>
@@ -495,22 +495,22 @@
 
 	<Civilization_UnitClassOverrides>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<UnitClassType>UNITCLASS_ARCHER</UnitClassType>
 			<UnitType>UNIT_AME_BLANCHE</UnitType>
 		</Row>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
 			<UnitType>UNIT_OURS_NOIR</UnitType>
 		</Row>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<UnitClassType>UNITCLASS_SCOUT</UnitClassType>
 			<UnitType>UNIT_MARCHEUR</UnitType>
 		</Row>
 		<Row>
-			<CivilizationType>CIVILIZATION_UDOSE</CivilizationType>
+			<CivilizationType>CIVILIZATION_RMOSSI</CivilizationType>
 			<UnitClassType>UNITCLASS_SPEARMAN</UnitClassType>
 			<UnitType>UNIT_PRETRE_BROBER</UnitType>
 		</Row>
